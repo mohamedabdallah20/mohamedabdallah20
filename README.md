@@ -24,7 +24,7 @@
 ## Tools:
 
 ![Node JS](https://img.shields.io/badge/-Node_Js-000000?style=flat&logo=node.js) 
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=Laravel) <br />
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=Laravel)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker) <br />
 ![React JS](https://img.shields.io/badge/-React_Js-000000?style=flat&logo=React) <br />
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git) <br />
