@@ -27,7 +27,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=Laravel)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker) <br />
 ![React JS](https://img.shields.io/badge/-React_Js-000000?style=flat&logo=React) 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git) <br />
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![MySql](https://img.shields.io/badge/-MySql-000000?style=flat&logo=mysql) <br />
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
