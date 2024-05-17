@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Laravel 10.x project
-- 🌱 I’m currently learning Laravel
+- 🔭 I’m currently working on NodeJS project
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Backend services
 - 💬 Ask me about anything
 
