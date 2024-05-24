@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on NodeJS project
-- 🌱 I’m currently learning Spring boot
+- 🌱 I’m currently learning Spring boot framework
 - 👯 I’m looking to collaborate on Backend services
 - 💬 Ask me about anything
 
